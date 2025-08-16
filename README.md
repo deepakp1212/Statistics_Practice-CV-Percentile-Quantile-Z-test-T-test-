@@ -35,7 +35,7 @@ The notebook is designed for **beginners and intermediate learners** to understa
 - Measure **consistency using Coefficient of Variation (CV)**.  
 - Calculate **quantiles and percentiles** with `numpy` and `pandas`.  
 - Compare datasets for **stability & variation**.  
-
+- **Z-test and T-test**
 
 
 ---  
